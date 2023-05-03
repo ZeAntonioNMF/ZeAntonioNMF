@@ -1,25 +1,23 @@
-## 👋 About:
-I'm José Antônio and welcome to my GitHub!
+### 👋 About
+I'm **José Antônio** and welcome to my GitHub!
 
-Olá, eu sou o José Antônio e bem vindo ao meu GitHub!
+<sup>*Olá, eu sou o **José Antônio** e seja bem vindo ao meu GitHub!*</sup>
 
-IT Specialist - Infrastructure | Cloud | DevOps | SRE | Agile / Especialista em TI - Infraestrutura | Cloud | DevOps | SRE | Agile
+IT Specialist - Infrastructure | Cloud | DevOps | SRE | Agile
+
+<sup>*Especialista em TI - Infraestrutura | Cloud | DevOps | SRE | Agile*</sup>
 
 <a href = "https://www.buymeacoffee.com/ZeAntonioNMF/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 
-## 📱 Contact:
-<a href = "mailto:joseantonionmfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 📱 Contact
+<a href = "mailto:joseantonionmfilho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://api.whatsapp.com/send/?phone=5562981156505"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "https://t.me/ZeAntonioNMF"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-
-## 🌐 Socials:
+## 🌐 Socials
 <a href="https://www.linkedin.com/in/ZeAntonioNMF" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.twitter.com/ZeAntonioNMF" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ZeAntonioNMF/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ### O.S.
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
