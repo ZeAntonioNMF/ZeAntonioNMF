@@ -40,6 +40,7 @@ IT Specialist - Infrastructure | Cloud | DevOps | SRE | Agile
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://www.rancher.com/" target="_blank"><img src="https://img.shields.io/badge/Rancher-0075A8.svg?style=for-the-badge&logo=Rancher&logoColor=white"></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"></a>
+<a href="https://www.portainer.io/" target="_blank"><img src="https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white"></a>
 
 
 
