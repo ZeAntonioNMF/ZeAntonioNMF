@@ -3,9 +3,9 @@ Hello! I'm **José Antônio** and welcome to my GitHub!
 
 <sup>*Olá! eu sou o **José Antônio** e seja bem vindo ao meu GitHub!*</sup>
 
-IT Specialist - Infrastructure | Cloud | DevOps | SRE | Agile
+IT Specialist - Platform Engineer | DevOps | SRE | Cloud | IaC | Agile
 
-<sup>*Especialista em TI - Infraestrutura | Cloud | DevOps | SRE | Agile*</sup>
+<sup>*Especialista em TI - Engenheiro de Plataforma | DevOps | SRE | Cloud | IaC | Agile*</sup>
 
 <a href = "https://www.buymeacoffee.com/ZeAntonioNMF/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 
