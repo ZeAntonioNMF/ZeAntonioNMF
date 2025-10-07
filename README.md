@@ -1,6 +1,6 @@
 ### 👋 About
-Hello! I'm **José Antônio** and welcome to my GitHub!  
-<sup>*Olá! eu sou o **José Antônio** e seja bem-vindo ao meu GitHub!*</sup>
+Hello! While my name is José Antônio, you can call me **ZévOps**! Welcome to my GitHub!
+<sup>*Olá! Meu nome é José Antônio, mas pode me chamar de **ZévOps**! Seja bem-vindo(a) ao meu GitHub!*</sup>
 
 IT Specialist - Platform Engineer | DevOps | SRE | Cloud | IaC | Agile  
 <sup>*Especialista em TI - Engenheiro de Plataforma | DevOps | SRE | Cloud | IaC | Agile*</sup>
